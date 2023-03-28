@@ -10,7 +10,10 @@ I am a frontend developer, currently learning and building new projects since Ja
 *   🖥️  See my portfolio at [Karengomez](http://karengomez.netlify.app/)
 *   ✉️  You can contact me at [karengomezsoto1@gmail.com](mailto:karengomezsoto1@gmail.com)
 *   🚀  I'm currently working on [Portfolio - Blog](http://karengomez.netlify.app/)
-*   🧠  I'm learning Astro and Tailwind### Skills 
+*   🧠  I'm learning Astro and Tailwind
+*   
+*   ### Skills 
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -28,7 +31,6 @@ I am a frontend developer, currently learning and building new projects since Ja
  ### Socials                 
                   
  <p align="left"><a href="https://discord.com/users/8291" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a><a href="https://www.github.com/karengomezs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/karengomezs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.twitter.com/karengomezsoto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
- 
  
 ### Badges
 
