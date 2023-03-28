@@ -12,7 +12,8 @@ I am a frontend developer, currently learning and building new projects since Ja
 *   🚀  I'm currently working on [Portfolio - Blog](http://karengomez.netlify.app/)
 *   🧠  I'm learning Astro and Tailwind
 *   
-*   ### Skills 
+
+### Skills 
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
