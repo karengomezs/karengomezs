@@ -11,8 +11,7 @@ I am a frontend developer, currently learning and building new projects since Ja
 *   ✉️  You can contact me at [karengomezsoto1@gmail.com](mailto:karengomezsoto1@gmail.com)
 *   🚀  I'm currently working on [Portfolio - Blog](http://karengomez.netlify.app/)
 *   🧠  I'm learning Astro and Tailwind
-*   
-
+   
 ### Skills 
 
 <p align="left">
