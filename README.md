@@ -6,7 +6,7 @@ FrontEnd Developer
 
 I am a frontend developer, currently learning and building new projects since January 2022 after switching careers 🚀 to strengthen my knowledge and solidify my programming skills 👩🏽‍💻. With each of my projects, I have learned a lot and I love this field.
 
-*   🌍  I'm based in Sabaneta, Antioquia, Colombia.
+*   🌍  I'm based in Rionegro, Antioquia, Colombia.
 *   🖥️  See my portfolio at [Karengomez](http://karengomez.netlify.app/)
 *   ✉️  You can contact me at [karengomezsoto1@gmail.com](mailto:karengomezsoto1@gmail.com)
 *   🚀  I'm currently working on [Portfolio - Blog](http://karengomez.netlify.app/)
