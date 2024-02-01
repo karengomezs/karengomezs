@@ -10,11 +10,13 @@ I am a frontend developer, currently learning and building new projects since Ja
 *   🖥️  See my portfolio at [Karengomez](http://karengomez.netlify.app/)
 *   ✉️  You can contact me at [karengomezsoto1@gmail.com](mailto:karengomezsoto1@gmail.com)
 *   🚀  I'm currently working on [Portfolio - Blog](http://karengomez.netlify.app/)
-*   🧠  I'm learning Astro and Tailwind
+*   🧠  I'm learning Typescript, Tailwind and Astro.
    
 ### Skills 
 
 <p align="left">
+   
+   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
